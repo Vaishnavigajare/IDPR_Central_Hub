@@ -41,10 +41,3 @@
 - **Java Development Kit (JDK)**
 - **Govt ID Verification APIs**
 
-## 🗓️ **Next Steps**
-- 5 hours of coding every session
-- Web3 transformation and advanced security features in the next semester.
-
----
-
-This README gives a concise yet informative overview of your project, making it attractive for GitHub. Let me know if you'd like to tweak anything!
