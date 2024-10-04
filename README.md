@@ -1,7 +1,7 @@
 
 # IDPR - **Integrated Data Protection & Retrieval System**
 
-**IDPR** is a secure, unified platform that enables users to safely store and manage sensitive information like Aadhar, PAN, and passwords. Leveraging advanced encryption and secure database operations, IDPR ensures data protection and retrieval while maintaining user-friendly access.
+**IDPR** is a secured, unified platform that enables users to safely store and manage sensitive information like Aadhar, PAN, and passwords. Leveraging advanced encryption and secure database operations, IDPR ensures data protection and retrieval while maintaining user-friendly access.
 
 ## 🔑 **Core Features**
 1. **User Authentication**: Secure SignUp/Login using email or Google OAuth.
