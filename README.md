@@ -4,7 +4,7 @@
 **IDPR** is a secured, unified platform that enables users to safely store and manage sensitive information like Aadhar, PAN, and passwords. Leveraging advanced encryption and secure database operations, IDPR ensures data protection and retrieval while maintaining user-friendly access.
 
 ## 🔑 **Core Features**
-1. **User Authentication**: Secure SignUp/Login using email or Google OAuth.
+1. **User Authentication**: Secure SignUp/SignIn using email or Google OAuth.
 2. **Data Encryption**: RSA and AES encryption for Aadhar, PAN, and other sensitive data.
 3. **Real-Time Data Storage**: Efficient CRUD operations using MySQL for encrypted data storage.
 4. **Secure ID Verification**: Integration of third-party API services like AuthBridge for government ID validation.
