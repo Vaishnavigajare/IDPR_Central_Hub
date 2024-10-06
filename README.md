@@ -19,7 +19,7 @@
 - **API Integration**: Govt ID Verification APIs (e.g., AuthBridge)
 
 ## 🚀 **Future Enhancements**
-- **Web3 Transition**: Decentralized storage and blockchain integration.
+- **Web3 Transition**: Decentralized storage and block-chain integration.
 - **DevSecOps**: Continuous security and automation pipelines.
 - **LLM & GenAI Features**: AI-driven insights and intelligent data management.
 
