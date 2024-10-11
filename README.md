@@ -38,6 +38,6 @@
 
 ## 🛠️ **Tools & Software**
 - **Visual Studio Code**
-- **Java Development Kit (JDK)**
+- **Java Development Kit (jdk)**
 - **Govt ID Verification APIs**
 
